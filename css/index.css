@@ -1,0 +1,25 @@
+@charset 'utf-8';
+
+body{
+    background-color: brown;
+}
+
+main {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 5px;
+
+}
+
+form{
+    background-color: bisque;
+    padding: 15px;;
+}
+
+form label{
+    display: block;
+}
+
+input[type="submit"]{
+    display: block;
+}
